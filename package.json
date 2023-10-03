@@ -1,0 +1,54 @@
+{
+  "_from": "parted@git://github.com/soitgoes/parted.git#f7936211711188b80573c1f4cf7b1d4699639fee",
+  "_id": "parted@0.1.3",
+  "_inBundle": false,
+  "_location": "/parted",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "parted@git://github.com/soitgoes/parted.git#f7936211711188b80573c1f4cf7b1d4699639fee",
+    "name": "parted",
+    "escapedName": "parted",
+    "rawSpec": "git://github.com/soitgoes/parted.git#f7936211711188b80573c1f4cf7b1d4699639fee",
+    "saveSpec": "git://github.com/soitgoes/parted.git#f7936211711188b80573c1f4cf7b1d4699639fee",
+    "fetchSpec": "git://github.com/soitgoes/parted.git",
+    "gitCommittish": "f7936211711188b80573c1f4cf7b1d4699639fee"
+  },
+  "_requiredBy": [
+    "/bogart-edge"
+  ],
+  "_resolved": "git://github.com/soitgoes/parted.git#f7936211711188b80573c1f4cf7b1d4699639fee",
+  "_spec": "parted@git://github.com/soitgoes/parted.git#f7936211711188b80573c1f4cf7b1d4699639fee",
+  "_where": "/sites/sharehands",
+  "author": {
+    "name": "Christopher Jeffrey"
+  },
+  "bugs": {
+    "url": "https://github.com/chjj/parted/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A streaming body parser",
+  "homepage": "https://github.com/chjj/parted#readme",
+  "keywords": [
+    "multipart",
+    "parser",
+    "http",
+    "express",
+    "middleware"
+  ],
+  "main": "./index.js",
+  "name": "parted",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chjj/parted.git"
+  },
+  "tags": [
+    "multipart",
+    "parser",
+    "http",
+    "express",
+    "middleware"
+  ],
+  "version": "0.1.3"
+}
